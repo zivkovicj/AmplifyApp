@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Will this push to Amplify?</h1>
+        <h1>Using yarn instead of npm</h1>
       </header>
     </div>
   );
